@@ -1,3 +1,13 @@
+<!-- ========== SNAKE ANIMATION (Contribution Graph) ========== -->
+<h2 align="center" style="color: #FFFFFF; margin-top: 30px;">
+  🐍 <span style="color: #D4AF37;">Contribution</span> Snake
+</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnujChaudhari/AnujChaudhari/output/github-snake-dark.svg" alt="Snake eating contribution dots" />
+</p>
+
+<br>
 <!-- ========== HEADER / BANNER ========== -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anuj+Chaudhary;Full-Stack+Web+Developer;Founder+of+Quick+Shop;Building+Digital+Experiences" alt="Typing SVG" />
