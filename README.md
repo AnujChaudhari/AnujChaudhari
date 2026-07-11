@@ -37,7 +37,7 @@
         <p style="color: #C9D1D9; font-size: 16px; line-height: 1.6;">
           🚀 <strong style="color: #D4AF37;">Quick Shop</strong> – My premium web development agency.<br>
           🌱 Currently exploring <strong>React.js & Next.js</strong>.<br>
-          📫 Reach me at: <strong style="color: #D4AF37;">hello@yourdomain.com</strong>
+          📫 Reach me at: <strong style="color: #D4AF37;">thinklabviews@gmail.com</strong>
         </p>
       </td>
       <td style="width: 40%; border: none; padding: 10px; vertical-align: middle; text-align: center;">
