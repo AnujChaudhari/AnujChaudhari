@@ -92,7 +92,7 @@
     </td>
     <!-- Card 2 -->
     <td style="background: #0D1117; border: 1px solid rgba(212,175,55,0.3); border-radius: 16px; padding: 20px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
-      <h3 style="color: #FFFFFF;">🤖 AI ChatBoat</h3>
+      <h3 style="color: #FFFFFF;">🤖 AI ChatBot</h3>
       <p style="color: #8B949E; font-size: 14px;">Artificial Intelligence UX</p>
       <p style="color: #D4AF37; font-size: 12px;">JavaScript · API</p>
       <br>
